@@ -1,3 +1,15 @@
+# AM Dental Clinic
+
+## Project Overview
+I have build a website for a dental clinic where their services will be availiable.People will also can see the doctors and the details of the Service.
+
+
+## code link 
+https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-Ashique01/edit/main/README.md
+
+## site link
+https://am-dental-clinic.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

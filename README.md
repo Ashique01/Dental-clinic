@@ -1,4 +1,6 @@
-# Project Overview
+#AM Dental Clinic
+
+## Project Overview
 I have build a website for a dental clinic where their services will be availiable.People will also can see the doctors and the details of the Service.
 
 

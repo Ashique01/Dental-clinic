@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Root Canal",
+        "price": "1000",
+        "description": "The concept of single sitting RCT is based on the entombing theory, which implies that large amounts of microorganisms are removed during washing and formation and remaining bacteria are entombed by root canal obturation, destroying all the elements required to survive.",
+        "img": "https://i.ibb.co/Jxx398y/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Restorative Surgery",
+        "price": "800",
+        "description": "A branch of dentistry that specializes in restoring lost or absent teeth is restorative dentistry. More importantly, these dentists mostly extract and restore cavities and provide other oral disorders with care. They also specialize in treating people who, due to wounds or disabilities, require dental fixes.",
+        "img": "https://i.ibb.co/XbrP587/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Braces Treatment",
+        "price": "1500",
+        "description": "One of the more obvious alternatives to the orthodontic dilemma is to get braces, but there is another alternative known as clear aligners for more and more adolescents and even adults who need their teeth straightened. Clear Aligners is a simple set of hard plastic aligners appropriate for the teeth.",
+        "img": "https://i.ibb.co/hL8qbxR/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Halitosis(Bad Breath)",
+        "price": "1000",
+        "description": "Halitosis, or chronic bad breath, is something that mint, mouthwash, or good washing can not remedy. In comparison to morning breath or a thick scent that persists after a tuna sandwich, halitosis occurs for a long period of time and maybe a sign of something more serious.",
+        "img": "https://i.ibb.co/Vwx0hVg/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "General Treatment",
+        "price": "1200",
+        "description": "The primary providers of dental treatment to persons of all ages are general dentists. General dentists provide diagnostic and restorative care, such as x-rays, brushing teeth, sealing cavities, and sealants. General dentists provide a wide variety of therapies and services, unlike experts who specialize in one particular field of dentistry. They treat patients of all ages as well.",
+        "img": "https://i.ibb.co/tMNczKX/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cosmetic Treatment",
+        "price": "2000",
+        "description": " In general, cosmetic dentistry refers to any dental work that enhances the appearance of teeth, gums, and/or bites. This focuses primarily on enhancing the color, place, form, scale, alignment, and overall smile appearance of dental aesthetics.",
+        "img": "https://i.ibb.co/7RTKSSr/6.jpg"
+    }
+]

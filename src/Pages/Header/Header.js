@@ -18,7 +18,7 @@ const Header = () => {
                         <Nav.Link className='navLink-style fw-bold' as={HashLink} to="/home#services">Services</Nav.Link>
                         <Nav.Link className='navLink-style fw-bold' as={HashLink} to="/home#doctors">Doctors</Nav.Link>
                         {user?.email ?
-                            <Button onClick={logOut} variant="light">Logout</Button> :
+                            <p className=' text-danger fw-bold mt-3 mx-3 pt-1 fst-italic fs-5'>{user.displayName}<Button onClick={logOut} variant="light">Logout </Button></p> :
                             <Nav.Link className='navLink-style fw-bold' as={Link} to="/login">Login</Nav.Link>}
 
                     </Navbar.Collapse>
